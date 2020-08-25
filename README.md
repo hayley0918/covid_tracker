@@ -1,3 +1,26 @@
+# Project Title
+Covid-19 Tracker
+
+## About the app
+Corona Virus is, unfortunately, spreading through the entire world. What can we, as developers, do to make the situation better? We can help to spread awareness by visualizing the data. The data is fetched from the API and cards components display the statistics as well as Charts. 
+
+## Screenshots of the app
+<p align="center">
+    <img src="./images/homeImage.png" width="350" height="350">
+    <img src="./images/australiaCase.png" width="350" height="350">
+</p>
+
+## Built with
+- ReactJS (Hooks, Material UI, Charts js)
+- API
+- Axios
+
+## Deployment
+- Github
+
+## This project is from...
+This project is from JavaScript Mastery's tutorial project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
