@@ -6,8 +6,8 @@ Corona Virus is, unfortunately, spreading through the entire world. What can we,
 
 ## Screenshots of the app
 <p align="center">
-    <img src="./images/homeImage.png" width="350" height="350">
-    <img src="./images/australiaCase.png" width="350" height="350">
+    <img src="./public/homeImage.png" width="350" height="350">
+    <img src="./public/australiaCase.png" width="350" height="350">
 </p>
 
 ## Built with
