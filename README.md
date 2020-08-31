@@ -5,6 +5,7 @@ Covid-19 Tracker
 Corona Virus is, unfortunately, spreading through the entire world. What can we, as developers, do to make the situation better? We can help to spread awareness by visualizing the data. The data is fetched from the API and cards components display the statistics as well as Charts. 
 
 ## Screenshots of the app
+[Check out the application](https://hayley0918.github.io/covid_tracker/.)
 <p align="center">
     <img src="./public/homeImage.png" width="350" height="350">
     <img src="./public/australiaCase.png" width="350" height="350">
